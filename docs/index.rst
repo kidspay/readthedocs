@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+KidsPay
 ==================================================
 
 Contents:
@@ -16,10 +16,9 @@ Contents:
 
 
 
-Indices and tables
+Documentation
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
