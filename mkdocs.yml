@@ -8,6 +8,12 @@ theme:
   name: readthedocs
   custom_dir: custom/
 
+shortcuts:
+  help: 72    # h (help)
+  next: 83     # s (suivant)
+  previous: 80 # p (précédent)
+  search: 82   # r (rechercher)
+
 site_author: Keany Vy KHUN
 
 site_favicon: favicon.ico
