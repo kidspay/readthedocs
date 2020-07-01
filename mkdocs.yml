@@ -4,4 +4,4 @@ nav:
     - KidsPay: index.md
     - À Propos: about.md
 
-theme_dir: cinder
+theme: readthedocs
