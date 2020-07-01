@@ -8,5 +8,6 @@ theme:
   name: readthedocs
   custom_dir: custom/
 
+site_author: Keany Vy KHUN
 
-prev_next_buttons_location: top
+site_favicon: favicon.ico
