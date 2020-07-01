@@ -1,4 +1,10 @@
 site_name: KidsPay
+site_description: Documentation KidsPay.
+site_author: Keany Vy KHUN
+site_favicon: favicon.ico
+
+plugins:
+    - search
 
 nav:
     - KidsPay: index.md
@@ -9,17 +15,12 @@ theme:
   custom_dir: custom/
   colorscheme: github
   highlightjs: true
-  shortcuts:
+
+shortcuts:
     help: 72    # h (help)
     next: 83     # s (suivant)
     previous: 80 # p (précédent)
     search: 82   # r (rechercher)
-
-prev_next_buttons_location: top
-
-site_author: Keany Vy KHUN
-
-site_favicon: favicon.ico
 
 markdown_extensions:
   - admonition
