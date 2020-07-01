@@ -1,5 +1,7 @@
 site_name: KidsPay
+
 nav:
     - KidsPay: index.md
     - À Propos: about.md
+
 theme_dir: cinder
