@@ -1,5 +1,5 @@
 site_name: KidsPay
 nav:
-    - Home: index.md
-    - About: about.md
-theme: readthedocs
+    - KidsPay: index.md
+    - À Propos: about.md
+theme: cinder

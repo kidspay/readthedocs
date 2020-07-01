@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# KidsPay
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
-## Commands
+## Introduction
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Comming-soon
 
-## Project layout
+## Commencer l'utilisation
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* 1. Clonez ce dépôt: `git clone https://github.com/kidspay/landing/`
+* 2. Ouvrez le dossier landing: `cd landing/`
+* 3. Ouvrez le dossier kidspay-system: `cd kidspay-system/`
