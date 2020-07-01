@@ -1,6 +1,6 @@
 # KidsPay
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Pour en savoir plus, rendez-vous sur [kidspay.com](https://kidspay.github.io/MVP-landing/kidspay-system/about/index.html).
 
 ## Introduction
 

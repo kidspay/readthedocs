@@ -4,4 +4,9 @@ nav:
     - KidsPay: index.md
     - À Propos: about.md
 
-theme: readthedocs
+theme:
+  name: readthedocs
+  custom_dir: custom/
+
+
+prev_next_buttons_location: top
