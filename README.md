@@ -4,7 +4,6 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](./COMMING-SOON.md) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](./COMMING-SOON.md)
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](./COMMING-SOON.md)<br>
-# Attention, il est interdit de copier, modifier ou encore revendre notre code !
 </div><br>
 
 Notre ambition est de créer un système de paiement fiable, rapide et sécurisé pour les adolescents dans le monde entier en exploitant la nouvelle technologie de la Blockchain.<br>
@@ -45,5 +44,5 @@ Si vous détectez un problème, veuillez le signaler. Si nous le considérons co
 Si vous souhaitez contribuer et aider l'équipe, veuillez d'abord consulter nos [directives de contribution](./CONTRIBUTING.md).
 
 ## Licence
-Ce projet n'a pas de licence. Vous n'êtes pas autorisés à modifier, copier, reproduire, distribuer ou encore revendre notre code.<br> Sous peine de sanctions.
-Merci pour votre compréhension. En respectant ces règles, vous respectez le travail de toutes les personnes qui ont contribué au projet.
+Ce projet a une licence. Vous êtes pas autorisés à modifier, copier, reproduire, distribuer ou encore revendre notre code.<br>
+Merci pour votre compréhension. En respectant ces règles, vous respectez le travail de toutes les personnes qui ont contribués au projet.
