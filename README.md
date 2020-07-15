@@ -45,4 +45,7 @@ Si vous souhaitez contribuer et aider l'équipe, veuillez d'abord consulter nos 
 
 ## Licence
 Ce projet a une licence. Vous êtes pas autorisés à modifier, copier, reproduire, distribuer ou encore revendre notre code.<br>
-Merci pour votre compréhension. En respectant ces règles, vous respectez le travail de toutes les personnes qui ont contribués au projet.
+Voir les [conditions](./LICENSE.md).
+###GNU GPLv3
+Les autorisations de cette licence copyleft sont conditionnées par la mise à disposition du code source complet des œuvres sous licence et des modifications sous la même licence ou la GNU GPLv3. Les avis de droits d'auteur et de licence doivent être conservés. Les contributeurs accordent une concession expresse de droits de brevet. Cependant, un travail plus volumineux utilisant le travail sous licence via des interfaces fournies par le travail sous licence peut être distribué sous différentes conditions et sans code source pour le travail plus volumineux.
+
